@@ -14,9 +14,7 @@
 </div>
 
 ##
-
 - Entusiasta da tecnologia, programação e inovação.
-
 ##
 
 <div>
