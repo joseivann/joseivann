@@ -1,4 +1,4 @@
-## Olá! Me chamo José Ivan
+## Olá! Eu me chamo José Ivan
 
 - 👨‍💻 Atualmente estou cursando Ciência da Computação na Universidade Federal de Pernambuco(UFPE).
 - 📚 Estudando Python
