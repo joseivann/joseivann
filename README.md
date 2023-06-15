@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo José Ivan
 
-- 👨‍💻 Atualmente estou cursando Ciência da Computação na Universidade Federal de Pernambuco(UFPE).
+- 👨‍💻 Atualmente sou estudante de Ciência da Computação no CIn-UFPE. Um dos mais renomados centros de ensino e pesquisa em computação do Brasil e da América Latina.
 - 📚 Estudando Python
 
 <div style="display: inline_block"><br>
