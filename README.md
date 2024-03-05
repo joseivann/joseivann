@@ -1,5 +1,7 @@
 ## Olá! Eu me chamo José Ivan
 
+![snake gif](https://github.com/joseivann/joseivann/blob/output/github-contribution-grid-snake.gif)
+
 - 👨‍💻 Atualmente sou estudante de Ciência da Computação no CIn-UFPE. Um dos mais renomados centros de ensino e pesquisa em computação do Brasil e da América Latina.
 - 📚 Estudando Python
 
