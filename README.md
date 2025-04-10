@@ -1,7 +1,7 @@
 ## Olá! Eu me chamo José Ivan
 
-- 👨‍💻 Atualmente sou estudante de Ciência da Computação no CIn-UFPE. Um dos mais renomados centros de ensino e pesquisa em computação do Brasil e da América Latina.
-
+- 👨‍💻 Atualmente sou estudante de Ciência da Computação no CIn - Universidade Federal de Pernambuco. Um dos mais renomados centros de ensino e pesquisa em computação do Brasil e da América Latina.
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Ivan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
