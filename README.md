@@ -3,7 +3,6 @@
 - 👨‍💻 Atualmente sou estudante de Ciência da Computação no CIn - Universidade Federal de Pernambuco. Um dos mais renomados centros de ensino e pesquisa em computação do Brasil e da América Latina.
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ivan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <h4 align="left">Linguagens:</h4>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
