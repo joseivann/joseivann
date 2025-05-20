@@ -1,6 +1,6 @@
 ## Olá! Eu me chamo José Ivan
 
-- 👨‍💻 Atualmente sou estudante de Ciência da Computação no CIn - Universidade Federal de Pernambuco. Um dos mais renomados centros de ensino e pesquisa em computação do Brasil e da América Latina.
+- 👨‍💻 Atualmente sou estudante de Ciência da Computação no Centro de Informática da Universidade Federal de Pernambuco. Um dos mais renomados centros de ensino e pesquisa em computação do Brasil e da América Latina.
   
 <div style="display: inline_block"><br>
 <h4 align="left">Linguagens:</h4>
